@@ -1,6 +1,6 @@
 <h1>Hi, I'm Sashank! <br/><a href="https://github.com/Asura-sb">Graduate</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Aspiring Data Scientist</a>, <a>Data Analyst</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Data SCience and Power BI Projects:</h2>
 
 
 
