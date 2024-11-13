@@ -1,6 +1,13 @@
 # 💫 About Me:
 👋 Hi, I’m Sashank Bommadevara<br><br>👨‍💻 Currently working on: Building and optimizing data pipelines and ETL processes using big data technologies (Hadoop, Spark) and cloud platforms (AWS, Azure) at Valiant Tek for clients like Capital One. I also work on developing data warehousing solutions with Snowflake and Redshift.<br><br>🤝 Looking to collaborate on: Open-source projects in data engineering, cloud data solutions, and automation, especially those focused on ETL pipeline design, CI/CD integration, or real-time data processing.<br><br>🔍 Looking for help with: Expanding my skills in advanced machine learning for data engineering, particularly with deep learning integration in data pipelines.<br><br>📚 Currently learning: Google Cloud Platform services, Kafka for real-time processing, and enhancing my skills in Scala for big data applications.<br><br>🎉 Fun Fact: I have publications in journals, and I’m always curious to learn new technologies and methodologies in data science and engineering.<br><br>🌱 Hobbies: Nature, tech news, reading manga, playing guitar, and learning new things.
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/aSURA-SB/aSURA-SB/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sbommadevara/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/sbommadevara) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/sbommadevara97) 
